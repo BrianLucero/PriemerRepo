@@ -19,5 +19,5 @@ usuarios.remove("Luca")
 #print("Cristian está en posición : ", usuarios.index("Cristian"))
 texto = "Esto es un texto bastante largo"
 #Texto a lista, separado por un determinado caracter
-texto = texto.split(" ")
+texto = texto.split( )
 print(texto)
